@@ -1,0 +1,7 @@
+langchain
+langgraph
+langsmith
+dotenv
+langchain-groq
+langchain_tavily
+langgraph-cli[inmem]
